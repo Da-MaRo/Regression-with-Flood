@@ -1,0 +1,15 @@
+# Ignore .log files
+*.log
+
+# Ignore the 'logs' directory
+logs/
+
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore temporary files
+*.tmp
+
+#ignore store
+*.DS_store
