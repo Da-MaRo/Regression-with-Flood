@@ -12,4 +12,4 @@ logs/
 *.tmp
 
 #ignore store
-*.DS_store
+*.DS_Store
