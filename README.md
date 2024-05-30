@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the solution for the Kaggle challenge "[Playground Series - Season 4, Episode 5](https://www.kaggle.com/competitions/playground-series-s4e5/overview)". The goal of this challenge is to build a model that predicts the target variable based on provided features.
+This repository contains the solution for the Kaggle challenge "[Playground Series - Season 4, Episode 5](https://www.kaggle.com/competitions/playground-series-s4e5/overview)". The goal of this challenge is to build a model that predicts the flood propability based on provided features.
 
 ## Objective
 
