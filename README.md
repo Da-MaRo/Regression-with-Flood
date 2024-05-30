@@ -65,12 +65,7 @@ Kaggle: [marquesrodrigues](https://www.kaggle.com/marquesrodrigues)
 
 ## Acknowledgments
 
-@misc{playground-series-s4e5,
-    author = {Walter Reade, Ashley Chow},
-    title = {Regression with a Flood Prediction Dataset},
-    publisher = {Kaggle},
-    year = {2024},
-    url = {https://kaggle.com/competitions/playground-series-s4e5}
+Walter Reade, Ashley Chow. (2024). Regression with a Flood Prediction Dataset. Kaggle. https://kaggle.com/competitions/playground-series-s4e5
 }
 
 - Kaggle for hosting the competition.
